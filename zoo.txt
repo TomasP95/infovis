@@ -1,1 +1,3 @@
-
+Interaction Techniques - brushing and linking
+Parallel Coordinates
+Seriation
